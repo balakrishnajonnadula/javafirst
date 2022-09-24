@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Tables {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Welcomet to balakrishna jonnadula Portal");
 		//Activated the Scanner
 		Scanner sc = new Scanner(System.in);
 		
