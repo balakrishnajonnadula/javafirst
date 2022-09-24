@@ -5,6 +5,7 @@ import java.util.regex.Pattern;
 
 public class RegExDemo {
 	public static void main(String[] args) {
+		
 		int count = 0;
 		Pattern pattern = Pattern.compile("@gmail.com");
 		Matcher matcher = pattern.matcher("balakrishna@gmail.com");
