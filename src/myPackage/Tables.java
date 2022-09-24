@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Tables {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		//Activated the Scanner
 		Scanner sc = new Scanner(System.in);
