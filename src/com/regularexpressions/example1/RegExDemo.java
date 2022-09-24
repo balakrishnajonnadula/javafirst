@@ -13,7 +13,7 @@ public class RegExDemo {
 			count++;
 			System.out.println(matcher.group() + "....." + matcher.start() + "....." + matcher.end());
 		}
-		System.out.println(count);
+		System.out.println("Total occurance : " + count);
 
 	}
 
